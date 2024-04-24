@@ -1,0 +1,20 @@
+{
+  "name": "qirat332_cli-based-atm",
+  "version": "1.0.0",
+  "description": "An ATM (Automated Teller Machine) implemented in TypeScript is a digital device that allows users to perform various banking transactions without the need for a bank teller. It typically provides functions such as withdrawing cash, checking account balances.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
